@@ -1,0 +1,593 @@
+filer_nam_l,rec_type,entity_nam_l,entity_nam_f,entity_zip4,entity_emp,tran_type,tran_date,amount
+Gaspar for Supervisor 2016,RCPT,Miller,Brett,92109,Eat Sleep Drink,R,2017-08-15,-750.0
+Gaspar for Supervisor 2016,RCPT,Miller,Kelli,92109,,R,2017-08-15,-750.0
+Gaspar for Supervisor 2016,RCPT,Wainio,John,92137,The San Diego Group,R,2017-06-30,-750.0
+Gaspar for Supervisor 2016,RCPT,Miller,Brett,92109,Eat Sleep Drink,,2017-06-30,750.0
+Gaspar for Supervisor 2016,RCPT,Miller,Kelli,92109,,,2017-06-30,750.0
+Gaspar for Supervisor 2016,RCPT,Ayyad,William,92067,"United Development Group, Inc.",,2017-06-30,750.0
+Gaspar for Supervisor 2016,RCPT,Bower,Amanda,92127,,,2017-06-29,750.0
+Gaspar for Supervisor 2016,RCPT,Gilmer,Erik,92024,Das Mod Real Estate,,2017-06-29,750.0
+Gaspar for Supervisor 2016,RCPT,Wong,Joseph O.,92101,Joseph Wong Design Architects,,2017-06-29,375.0
+Gaspar for Supervisor 2016,RCPT,Engert,Renate L,92078,,,2017-06-29,150.0
+Gaspar for Supervisor 2016,RCPT,Whitney,Eli,92078,Colonial Life,,2017-06-29,100.0
+Gaspar for Supervisor 2016,RCPT,Bower,Peter,92127,Pacifica Real Estate Services,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,Colucci,Robert,92091,Pacifica Enterprises,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,Colucci,Romina,92091,,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,Hale,Clinton E.,92111,Hale Engineering,,2017-06-28,250.0
+Gaspar for Supervisor 2016,RCPT,Williams,Colleen,92130,Eat Drink and Sleep,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,Ziegaus,Ashley,92113,Southwest Strategies,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,Smith,Stephen,92064,Miller Enterprises,,2017-06-28,750.0
+Gaspar for Supervisor 2016,RCPT,De Luca,Sara,92091,Invita,,2017-06-27,750.0
+Gaspar for Supervisor 2016,RCPT,Baumgardner,John,91910,Ace Parking,,2017-06-01,250.0
+Gaspar for Supervisor 2016,RCPT,Stenman,Susan B.,92131,,,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,McMahon,Mark E.,92037,Moss Adams,,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Harper,Karen Kaye,92037,,,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Harper,K Michelle,92064,,,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Harper,Ronald D,92101,Harper Construction Co.,,2017-05-31,500.0
+Gaspar for Supervisor 2016,RCPT,Harper,Jeffrey A.,92064,Harper Construction Co.,,2017-05-31,450.0
+Gaspar for Supervisor 2016,RCPT,Engelman,David S.,92067,,,2017-05-31,250.0
+Gaspar for Supervisor 2016,RCPT,Cahill,Brian,92082,Balfour Beatty Construction,,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Thornton,Jason R.,92101,"Marks, Finch, Thornton & Baird, LLP",,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Finch,Randolph,92037,"Finch, Thornton & Baird, LLP",,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Baird,Jeffrey B.,92130,"Finch, Thornton & Baird, LLP",,2017-05-31,750.0
+Gaspar for Supervisor 2016,RCPT,Furby,Camille,92037,,,2017-05-25,750.0
+Gaspar for Supervisor 2016,RCPT,Kennedy,Clair,92020,Marathon Equipment Leasing Corp.,,2017-05-22,750.0
+Gaspar for Supervisor 2016,RCPT,Durie,Timothy C.,92011,Newland Real Estate Group,,2017-05-17,250.0
+Gaspar for Supervisor 2016,RCPT,Mullins,Vicki,92121,Newland Real Estate Group,,2017-05-17,250.0
+Gaspar for Supervisor 2016,RCPT,Brandin,Rita,92025,Newland Real Estate Group,,2017-05-17,250.0
+Gaspar for Supervisor 2016,RCPT,Hageman,Douglas L.,92122,Newland Real Estate Group,,2017-05-17,250.0
+Gaspar for Supervisor 2016,RCPT,Osborn,Ruth,92782,Mastercraft Residential,,2017-04-18,750.0
+Gaspar for Supervisor 2016,RCPT,Tamme,Carole A.,92808,Mastercraft Residential,,2017-04-18,750.0
+Gaspar for Supervisor 2016,RCPT,Lauletta,David,93021,Comstock Crosser and Associates,,2017-04-14,500.0
+Gaspar for Supervisor 2016,RCPT,Betti,Arlene D.,92024,CasaBetti di Frontignano,,2017-04-11,100.0
+Gaspar for Supervisor 2016,RCPT,Abbott,Jack,92107,Oak Creek Trail,,2017-03-17,250.0
+Gaspar for Supervisor 2016,RCPT,Mohr,Neil,92064,Republic Services,,2017-03-17,100.0
+Gaspar for Supervisor 2016,RCPT,Chase,Dick,91902,Republic Services,,2017-03-17,200.0
+Gaspar for Supervisor 2016,RCPT,Wiggins,Bradley,37069,Corrections Corporation of America,,2017-03-17,500.0
+Gaspar for Supervisor 2016,RCPT,Clay,Ben G.,92103,,,2017-03-17,250.0
+Gaspar for Supervisor 2016,RCPT,Bernard,Bret B.,90267,Milan Capital Management,,2017-03-17,250.0
+Gaspar for Supervisor 2016,RCPT,Seltzer,Brian T.,92101,Setlzer Caplan McMahon & Vitek,,2017-03-13,500.0
+Gaspar for Supervisor 2016,RCPT,Creager,Hugh Gunder,92118,Colliers International,,2017-03-03,250.0
+Gaspar for Supervisor 2016,RCPT,Slater,Scott,93101,"Brownstein Hyatt Farber Schreck, LLP",,2017-02-27,500.0
+Gaspar for Supervisor 2016,RCPT,Butler,Steven,92007,ColRich,,2017-02-23,100.0
+Gaspar for Supervisor 2016,RCPT,Thompson,Daniel S.,92661,MasterCraft Homes,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Holcomb,Laurie,92648,Blackstar Financial,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Passerello,Judy,92660,Mastercraft Homes,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Davis,Katherine L.,92037,,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Corlett,Scott,92131,Enterprise Venture Partners LLC,,2017-02-22,500.0
+Gaspar for Supervisor 2016,RCPT,Corlett,Dace,92131,RevolutionizeU,,2017-02-22,500.0
+Gaspar for Supervisor 2016,RCPT,Lisnevsky,Alex,92122,Mirax Construction Inc.,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Ferguson,Rebecca H.,92121,Landmark Consulting,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Brencick,Mark A.,92121,Landmark Consulting,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Wainio,John,92137,The San Diego Group,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Durie,Vicki L,92011,,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Durie,Timothy C.,92011,Newland Real Estate Group,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Dorsee,Karolyn L.,92067,Dorsee Productions,,2017-02-22,100.0
+Gaspar for Supervisor 2016,RCPT,Guerin,Al H.,92024,,,2017-02-22,200.0
+Gaspar for Supervisor 2016,RCPT,Coopersmith,Randi F.,92024,Latiture 33,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Dorame,Raymond E.,92692,MDS Land Use & Development,,2017-02-22,750.0
+Gaspar for Supervisor 2016,RCPT,Franklin,John B.,92081,Pacific Political Inc. / New Majority,,2017-02-22,250.0
+Gaspar for Supervisor 2016,RCPT,Lounsbery,John Daniel,92106,RiverStone Claims Management,,2017-02-21,500.0
+Gaspar for Supervisor 2016,RCPT,Fish,Lincoln,92116,OutCo,,2017-02-21,500.0
+Gaspar for Supervisor 2016,RCPT,Frahm,Chris,92101,"Brownstein Hyatt Farber Schreck, LLP",,2017-02-21,250.0
+Gaspar for Supervisor 2016,RCPT,Farry,Doug,92131,True Connect,,2017-02-21,250.0
+Gaspar for Supervisor 2016,RCPT,Bowden,Renny Loyd,92130,American National Insurance Co.,,2017-02-21,250.0
+Gaspar for Supervisor 2016,RCPT,Kovach,David,92061,DFC Inc.,,2017-02-21,750.0
+Gaspar for Supervisor 2016,RCPT,Navarra,Jerome,92103,Jerome's Furniture,,2017-02-20,750.0
+Gaspar for Supervisor 2016,RCPT,Villegas,Pedro,91913,Sempra Energy,,2017-02-20,200.0
+Gaspar for Supervisor 2016,RCPT,Clay,Ben G.,92103,,,2017-02-20,500.0
+Gaspar for Supervisor 2016,RCPT,Lankford,Robert V.,92101,Lankford & Associates,,2017-02-20,750.0
+Gaspar for Supervisor 2016,RCPT,Roos,Michael,92101,ColRich,,2017-02-20,100.0
+Gaspar for Supervisor 2016,RCPT,Johnston,Katherine,92037,Downtown San Diego Partnership,,2017-02-17,750.0
+Gaspar for Supervisor 2016,RCPT,Bell,Robert J,92067,"Dentons US, LLP",,2017-02-17,250.0
+Gaspar for Supervisor 2016,RCPT,Berenter,Alexandra,92123,Downtown San Diego Partnership,,2017-02-17,100.0
+Gaspar for Supervisor 2016,RCPT,Morgan-Reed,Cynthia,92106,Morgan Reed Law,,2017-02-17,200.0
+Gaspar for Supervisor 2016,RCPT,Reeves,Daniel,92101,Downtown San Diego Partnership,,2017-02-17,250.0
+Gaspar for Supervisor 2016,RCPT,Michell,Mary (Kris),92106,Downtown San Diego Partnership,,2017-02-17,750.0
+Gaspar for Supervisor 2016,RCPT,Benedetto,Melanie,92131,Carlson Wagonlit Travel,,2017-02-16,750.0
+Gaspar for Supervisor 2016,RCPT,Burchett,Marjorie,92107,Withers Bergman LLP,,2017-02-16,150.0
+Gaspar for Supervisor 2016,RCPT,Mahoney,Rita,92131,ColRich,,2017-02-15,250.0
+Gaspar for Supervisor 2016,RCPT,Svatos,Robert,92131,ConAm Management Corp.,,2017-02-15,250.0
+Gaspar for Supervisor 2016,RCPT,Shepard,Jason G.,92111,ColRich,,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Mitchell,Robert E.,92122,ColRich,,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Philo,Kirk,92028,ColRich,,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Dorros,Seth,92037,ColRich,,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Willis,Delbert L.,92081,ColRich,,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Cushman,Stephen,92131,Cush Enterprises,,2017-02-13,750.0
+Gaspar for Supervisor 2016,RCPT,Cushman,Marjorie,92131,,,2017-02-13,750.0
+Gaspar for Supervisor 2016,RCPT,Dorros,Anna,92037,"Sheppard, Mullin, Richter & Hampton LLP",,2017-02-13,100.0
+Gaspar for Supervisor 2016,RCPT,Waterman,Ryan,92107,"Brownstein Hyatt Farber Schreck, LLP",,2017-02-10,250.0
+Gaspar for Supervisor 2016,RCPT,Halsey,Tom,92109,ColRich,,2017-02-09,100.0
+Gaspar for Supervisor 2016,RCPT,Wendroff,Steven,92103,Duffy Kruspodin LLP,,2017-02-09,700.0
+Gaspar for Supervisor 2016,RCPT,Rookus,Kelly,92120,ColRich,,2017-02-09,100.0
+Gaspar for Supervisor 2016,RCPT,Peterson,Laurie,92009,HomeBridge Financial Services,,2017-02-09,100.0
+Gaspar for Supervisor 2016,RCPT,Sherman,Lawrence,92101,Solomon Ward,,2017-02-09,500.0
+Gaspar for Supervisor 2016,RCPT,Brand,Matthew B.,92103, Matthew B. Brand,,2017-02-06,750.0
+Gaspar for Supervisor 2016,RCPT,Kirma,Diane M.,92108,,,2017-02-02,500.0
+Gaspar for Supervisor 2016,RCPT,Eldred,Cynthia L,92103,"The Law Office Of Cynthia L Eldred, APC",,2017-02-02,250.0
+Gaspar for Supervisor 2016,RCPT,Sumlin,Elizabeth,92129,"SD Commercial, LLC",,2017-02-02,500.0
+Gaspar for Supervisor 2016,RCPT,Amato,Brian,92024,"SD Commercial, LLC",,2017-02-02,500.0
+Gaspar for Supervisor 2016,RCPT,Alvarez,Marilou,92126,"National Enterprises, Inc.",,2017-02-02,500.0
+Gaspar for Supervisor 2016,RCPT,Triphan,Gary O.,92129,"SD Commercial, LLC",,2017-02-02,500.0
+Gaspar for Supervisor 2016,RCPT,Jacobs,Bradley L.,92101,"Self; Bradley L. Jacobs, Atty at Law, APC",,2017-02-02,750.0
+Gaspar for Supervisor 2016,RCPT,Waite,Anna,92067,,,2017-02-02,750.0
+Gaspar for Supervisor 2016,RCPT,Hobbs,Chad,92075,Choice Consulting Inc.,,2017-01-31,500.0
+Gaspar for Supervisor 2016,RCPT,Arobone,Lindsay,92101,"SD Commericial, LLC",,2017-01-31,500.0
+Gaspar for Supervisor 2016,RCPT,Wick,Connie,92025,,,2017-01-31,750.0
+Gaspar for Supervisor 2016,RCPT,Murray,Debbie,92130,Cumming Corporation,,2017-01-24,150.0
+Gaspar for Supervisor 2016,RCPT,Baker,Kent N.,92029,Baker Electric,,2017-01-24,150.0
+Gaspar for Supervisor 2016,RCPT,Ziegaus,Constance,92101,,,2017-01-24,750.0
+Gaspar for Supervisor 2016,RCPT,Waddle,Jael,91913,Zephyr,,2017-01-21,750.0
+Gaspar for Supervisor 2016,RCPT,Waddle,Scott,91913,James & Waddle PC,,2017-01-21,750.0
+Gaspar for Supervisor 2016,RCPT,Creager,Hugh Gunder,92118,Colliers International,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Dewald,John T.,92007,RhodesMoore LLC,,2017-01-11,200.0
+Gaspar for Supervisor 2016,RCPT,McParlane,Paul,92124,McParlane & Associates,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Mumford,James T.,92115,Good Earth Plant & Flower Company,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Lyon,Mark,92037,Mark Lyon Architecture,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Ross,Gail,92130,Fiesta De Reyes,,2017-01-11,350.0
+Gaspar for Supervisor 2016,RCPT,Santistevan,David R,92067,Colliers Int'l,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Schroeder,Rikki R.,92029,RMA Consultants,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Baldwin,Alfred E,92660,Baldwin & Sons,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Strang,Kenneth,92130,MedRx Pharmacy,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,McLeod,Robert B.,92121,Newland Real Estate Group,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,McLeod,Nancy E.,92121,,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Brandin,Rita,92025,Newland Real Estate Group,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Hageman,Douglas L.,92122,Newland Real Estate Group,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Mullins,Vicki,92121,Newland Real Estate Group,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Free,Franci,92067,,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Bailey,John A.,92078,Lusardi Construction,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Free,Scott,92067,Lusardi Construction,,2017-01-11,350.0
+Gaspar for Supervisor 2016,RCPT,Free,Scott,92067,Lusardi Construction,,2017-01-11,150.0
+Gaspar for Supervisor 2016,RCPT,Lusardi,Debbie E.,92069,,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Lusardi,Warner C.,92078,Lusardi Construction,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Baldwin,Steven B.,92127,Baldwin & Sons,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Haggart,Gregg,92037,Gildred Development Co.,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Prescott-Loeffler,Karen,92672,Nat'l Electrical Contractors Assn,,2017-01-11,200.0
+Gaspar for Supervisor 2016,RCPT,Dephillips,Russ,92007,"Milberg & Dephillips, P.C.",,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Lucatuorto,Paul A.,92064,Presidio Residential Capital,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Kretowicz,Dianne,92037,,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Faye,Donald R.,92131,Presidio,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Bailey III,Olyn R.,92025,Shofu Dental Corp.,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Guericke,Keith R.,95070,Essex,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Bowden,Renny Loyd,92130,American National Insurance Co.,,2017-01-11,500.0
+Gaspar for Supervisor 2016,RCPT,Hernandez,Rebecca D.,92064,Safety Public Health Coalition,,2017-01-11,250.0
+Gaspar for Supervisor 2016,RCPT,Provenzano,Ross,92122,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Goodman,Thomas,92037,,,2017-01-11,100.0
+Gaspar for Supervisor 2016,RCPT,Mercado,Hilbert M.,92024,Voit Real Estate Services,,2017-01-11,125.0
+Gaspar for Supervisor 2016,RCPT,Ralphs,Thomas A.,92075,,,2017-01-11,750.0
+Gaspar for Supervisor 2016,RCPT,Anastasopoulos,Nicholas,92128,Athens Market Cafe,,2017-01-11,200.0
+Gaspar for Supervisor 2016,RCPT,Vallas,Theodore L.,92024,California Pacific Airlines,,2017-01-11,100.0
+Gaspar for Supervisor 2016,RCPT,Goetz,Dean,92075,Law Office of Dean A. Goetz,R,2017-01-10,-50.0
+Gaspar for Supervisor 2016,RCPT,Richman,Larry,92108,Richman Technology Corp,R,2017-01-10,-250.0
+Gaspar for Supervisor 2016,RCPT,Matheson,Douglas,92106,"CBRE Group, Inc.",,2017-01-10,150.0
+Gaspar for Supervisor 2016,RCPT,Medina,Rudy,92106,Next Space Development,,2017-01-10,250.0
+Gaspar for Supervisor 2016,RCPT,Rubin,Dr. Budd,92108,,,2017-01-10,500.0
+Gaspar for Supervisor 2016,RCPT,Starck,James,92024,Starck Architecture & Planning,,2017-01-10,250.0
+Gaspar for Supervisor 2016,RCPT,Harrison,Keith,92023,Harrison Properties,,2017-01-10,250.0
+Gaspar for Supervisor 2016,RCPT,Curry,Peter,92024,Cushman & Wakefield,,2017-01-10,250.0
+Gaspar for Supervisor 2016,RCPT,Burr,Edward,92115,EDCO Waste & Recycling Services,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Penrose,Margaret Iwanaga,92020,Union of Pan Asian Communities,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Akavan,Michael,92121,"MA Engineers, Inc.",,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Woolley,Chris,92067,Square 1 Bank,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Termini,Rocco,14203,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Matthess,Audrey,92024,Pillbox,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Pereira,Lynne,92117,San Diego Granite,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Beucler,Winfield,92009,Zephyr Partners,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Earle,Andrew,92109,Zephyr Partners,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Owens,Andrea,93401,Razorfish,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Sager,Richard,92103,Sager Management Corp.,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Vance,Lee,92024,Self: Vance & Associates,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Stirling,Lawrence W,92103,Adams Stirling Prof. Law Corp.,,2017-01-09,500.0
+Gaspar for Supervisor 2016,RCPT,Chipman,Scott,92126,Design Synthesis,,2017-01-09,400.0
+Gaspar for Supervisor 2016,RCPT,Berg,Andrew,92129,National Electrical Contractors Association (NECA),,2017-01-09,500.0
+Gaspar for Supervisor 2016,RCPT,Martin,Raymond,92127,Hunsaker & Associates,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Lippitt,Kathleen,92064,Social Advocates for Youth San Diego,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Lawson,James,92101,Presidio Public Affairs Group,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Lee,Nicholas,92109,Baldwin & Sons,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Goetz,Dean,92075,Law Office of Dean A. Goetz,,2017-01-09,500.0
+Gaspar for Supervisor 2016,RCPT,Heidelberg,Evelyn,92127,Binger Communications,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Dealy,Perry,92106,"Dealy Development, Inc.",,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Binger,Beth,92101,"Binger Communications, Inc.",,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,McKellar,Chris,92037,McKellar McGowan,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Edwards-Tate,Laurie,92078,At Your Home Family Healthcare,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Mohr,Neil,92064,Republic Services,,2017-01-09,150.0
+Gaspar for Supervisor 2016,RCPT,Sillman,Larry R,92037,Sillman Wright Architects,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Richman,Cathy,92108,,,2017-01-09,500.0
+Gaspar for Supervisor 2016,RCPT,Fahmie,Richard,92120,Kitchen Expo,,2017-01-09,150.0
+Gaspar for Supervisor 2016,RCPT,Richman,Larry,92108,Richman Technology Corp,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Termini,Rocco,14203,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Owens,Kyle,93401,County of San Luis Obispo,,2017-01-09,750.0
+Gaspar for Supervisor 2016,RCPT,Richman,Larry,92108,Richman Technology Corp,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Burr,Edward,92115,EDCO Waste & Recycling Services,,2017-01-09,250.0
+Gaspar for Supervisor 2016,RCPT,Bissonette,Leah,92024,The Energy Biss,,2017-01-08,250.0
+Gaspar for Supervisor 2016,RCPT,James,Andrew,92131,Lockton Insurance Brokers LLC,,2017-01-08,250.0
+Gaspar for Supervisor 2016,RCPT,Kassel,Arturo,92130,Whiskndale Hospitality,,2017-01-07,500.0
+Gaspar for Supervisor 2016,RCPT,Wahl,Jennifer,92037,Southwest Strategies,,2017-01-06,750.0
+Gaspar for Supervisor 2016,RCPT,Dronenburg,Ernest,92028,County of San Diego,,2017-01-06,250.0
+Gaspar for Supervisor 2016,RCPT,Pfeiler,Lori,92027,San Diego Habitat for Humanity,,2017-01-06,100.0
+Gaspar for Supervisor 2016,RCPT,McNerney,Michael,92024,Lowe Enterprises,,2017-01-05,250.0
+Gaspar for Supervisor 2016,RCPT,Zervas,Napoleon,92110,"Iberia Enterprises, Inc.",,2017-01-05,250.0
+Gaspar for Supervisor 2016,RCPT,Gable,Tom,92014,Nuffer Smith Tucker Public Relations,,2017-01-04,250.0
+Gaspar for Supervisor 2016,RCPT,Field,Alfred,92106,,,2017-01-04,150.0
+Gaspar for Supervisor 2016,RCPT,Han,Jason,90401,"New Urban West, Inc",,2017-01-03,250.0
+Gaspar for Supervisor 2016,RCPT,Turk,Michael E.,92109,KD Development Inc,R,2016-12-31,-750.0
+Gaspar for Supervisor 2016,RCPT,Goodrich,George,92083,Nissho of California,,2016-12-29,250.0
+Gaspar for Supervisor 2016,RCPT,Wechter,Kevin,92122,"PacVentures, Inc.",,2016-12-28,250.0
+Gaspar for Supervisor 2016,RCPT,Phife,Ron,92108,County of San Diego,,2016-12-26,250.0
+Gaspar for Supervisor 2016,RCPT,Bernstein,Andrew,92604,Jackson Tidus Law,,2016-12-25,250.0
+Gaspar for Supervisor 2016,RCPT,Shier,Ivor,92067,Corporate Helicopters of San Diego,,2016-12-17,50.0
+Gaspar for Supervisor 2016,RCPT,Pierce,Frederick,92067,Pierce Education Properties,,2016-12-16,250.0
+Gaspar for Supervisor 2016,RCPT,Fenley,Jean,92067,,,2016-10-20,400.0
+Gaspar for Supervisor 2016,RCPT,Cavignac,Jeffrey,92103,Cavignac & Associates,,2016-12-15,250.0
+Gaspar for Supervisor 2016,RCPT,Lang,Thomas,92067,,,2016-10-20,200.0
+Gaspar for Supervisor 2016,RCPT,Dulgeroff,Alan,92108,SDGE,,2016-10-19,200.0
+Gaspar for Supervisor 2016,RCPT,Ihrig,Christina,30328,Sempra,,2016-10-19,100.0
+Gaspar for Supervisor 2016,RCPT,Boswell,Laura,92037,Kinder 4 Rescue,,2016-11-17,750.0
+Gaspar for Supervisor 2016,RCPT,Boswell,Laura,92037,Kinder 4 Rescue,,2016-11-17,250.0
+Gaspar for Supervisor 2016,RCPT,Duclos,Carol,92127,,,2016-11-14,250.0
+Gaspar for Supervisor 2016,RCPT,Boyd,Edward,92119,The Robert Green Company,,2016-11-14,750.0
+Gaspar for Supervisor 2016,RCPT,Boyd,Edward,92119,The Robert Green Company,,2016-11-14,750.0
+Gaspar for Supervisor 2016,RCPT,Theiss,Christopher,80301,The Robert Green Company,,2016-11-14,750.0
+Gaspar for Supervisor 2016,RCPT,Haddad,Ann,92106,,R,2016-11-08,-500.0
+Gaspar for Supervisor 2016,RCPT,Dellanos,Estela,92014,San Diego Gas & Electric,R,2016-11-07,-150.0
+Gaspar for Supervisor 2016,RCPT,Beckman,William R.,92067,"Beckman/Carlsbad I, LLC",,2016-11-07,150.0
+Gaspar for Supervisor 2016,RCPT,Haddad,Ann,92106,,,2016-11-06,500.0
+Gaspar for Supervisor 2016,RCPT,Hinchy,J. William,92067,,,2016-11-04,150.0
+Gaspar for Supervisor 2016,RCPT,Cameron,Terry,92021,"TC Construction Company, Inc.",,2016-11-04,250.0
+Gaspar for Supervisor 2016,RCPT,Cameron,Rachelle,92021,Barker Realty,,2016-11-04,250.0
+Gaspar for Supervisor 2016,RCPT,Gieffels,Kazuhiko Jack,92021,"TC Construction Company, Inc.",,2016-11-04,250.0
+Gaspar for Supervisor 2016,RCPT,Tharp,Darren Jeep,91901,"TC Construction Company, Inc.",,2016-11-04,250.0
+Gaspar for Supervisor 2016,RCPT,Chambers,Ruth,75214,,,2016-10-02,100.0
+Gaspar for Supervisor 2016,RCPT,Wilson,Douglas P.,92101,Douglas Wilson Companies,,2016-11-03,750.0
+Gaspar for Supervisor 2016,RCPT,Kenney,Tom,92009,Verve,,2016-11-03,250.0
+Gaspar for Supervisor 2016,RCPT,Creager,Hugh Gunder,92118,Colliers International,,2016-11-03,250.0
+Gaspar for Supervisor 2016,RCPT,Wilson,Kathleen,92101,,,2016-11-03,750.0
+Gaspar for Supervisor 2016,RCPT,Lichter,Robert,92109,Lichter Venture Group,,2016-11-02,750.0
+Gaspar for Supervisor 2016,RCPT,Roe,Jason,92110,Revolvis,,2016-11-02,250.0
+Gaspar for Supervisor 2016,RCPT,Worman,Scott,92067,"Self; Dr. Scott Worman, MD",,2016-11-02,250.0
+Gaspar for Supervisor 2016,RCPT,Armstrong,Thomas,92021,"Armstrong Builders, Inc.",,2016-11-02,250.0
+Gaspar for Supervisor 2016,RCPT,Zagami,Jerry,92111,Clairemont Equipment,,2016-11-02,750.0
+Gaspar for Supervisor 2016,RCPT,Pretto,Charles,92103,The Kobey Corporation,,2016-11-02,750.0
+Gaspar for Supervisor 2016,RCPT,Ballo,Younis E,92040,Golden Eagle Liquor,,2016-11-02,750.0
+Gaspar for Supervisor 2016,RCPT,Ballo,Latifa E,92040,,,2016-11-02,750.0
+Gaspar for Supervisor 2016,RCPT,Roe,Patty,92110,Revolvis,,2016-11-02,500.0
+Gaspar for Supervisor 2016,RCPT,Filanc,Mark,92014,Filanc Construction,,2016-11-01,500.0
+Gaspar for Supervisor 2016,RCPT,Zettel,Charlene R,92064,,,2016-11-01,50.0
+Gaspar for Supervisor 2016,RCPT,Haedrich,Joachim,92011,"Tip Top Meats and European Delicatessen, Inc.",,2016-11-01,500.0
+Gaspar for Supervisor 2016,RCPT,Jones,Lois A.,92067,LAJ Services,,2016-11-01,150.0
+Gaspar for Supervisor 2016,RCPT,McRoskey,John W.,92067,Jones Lang LaSalle,,2016-11-01,150.0
+Gaspar for Supervisor 2016,RCPT,Black,Steven L,92067,"Cisterra Development, LLC",,2016-11-01,750.0
+Gaspar for Supervisor 2016,RCPT,Schneider,Phillip,92064,,,2016-11-01,250.0
+Gaspar for Supervisor 2016,RCPT,Cruzan,Dennis,92014,Cruzan Monroe,,2016-11-01,550.0
+Gaspar for Supervisor 2016,RCPT,Selva,Bert,92657,Shea Homes,,2016-11-01,375.0
+Gaspar for Supervisor 2016,RCPT,Shea Jr.,Peter,92660,"JF Shea Co., Inc.",,2016-11-01,375.0
+Gaspar for Supervisor 2016,RCPT,Gerber,Marcus,92037,Kaiser Foundation Health Plan,,2016-11-01,350.0
+Gaspar for Supervisor 2016,RCPT,Karp,Samuel,92009,Kachay Homes,,2016-11-01,750.0
+Gaspar for Supervisor 2016,RCPT,Garner,John,92024,Pacific Equity Group,,2016-11-01,750.0
+Gaspar for Supervisor 2016,RCPT,McDowell,Michael,92078,SD Lodging Industry Association,R,2016-10-31,-750.0
+Gaspar for Supervisor 2016,RCPT,Kahn,Sandy,92075,Great Western Mortgage,,2016-10-31,500.0
+Gaspar for Supervisor 2016,RCPT,Little,Isaac,92054,Lee & Associates,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Williams,Rusty,92057,Lee & Associates,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Brown,Traci,92131,NetApp,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Greer,Keith,92127,Greer & Associates,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Harris,Wayne,92130,,,2016-10-31,500.0
+Gaspar for Supervisor 2016,RCPT,Williams,Kara,92057,,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Little,Ashley,92054,,,2016-10-31,750.0
+Gaspar for Supervisor 2016,RCPT,Kihm,Kimberly,92675,"Red Tail Acquisitions, LLC",,2016-10-29,500.0
+Gaspar for Supervisor 2016,RCPT,Esgate,Arlene J.,92101,,R,2016-10-28,-750.0
+Gaspar for Supervisor 2016,RCPT,Sarkisian,John,92116,,,2016-10-28,500.0
+Gaspar for Supervisor 2016,RCPT,Cox,Brian,92064,"Brian Cox Mechanical, Inc.",,2016-10-28,500.0
+Gaspar for Supervisor 2016,RCPT,Henderson,Mike,92019,KTA Construction Inc.,,2016-10-28,250.0
+Gaspar for Supervisor 2016,RCPT,McDowell,Michael,92078,SD Lodging Industry Association,,2016-10-28,750.0
+Gaspar for Supervisor 2016,RCPT,Ruchlewicz,Paul,92067,Pacific Western Realty,,2016-10-28,250.0
+Gaspar for Supervisor 2016,RCPT,Alemany,Alexander,92101,Hub & Spoke Communities,,2016-10-28,400.0
+Gaspar for Supervisor 2016,RCPT,Pieper,Darold,92011,"Self; Darold D. Pieper, Attorney at Law",,2016-10-28,250.0
+Gaspar for Supervisor 2016,RCPT,Abdi,Charles,92130,Finest City Realty Advisors,,2016-10-28,100.0
+Gaspar for Supervisor 2016,RCPT,Passanisi,Sam J,92131,"Neal Electric, Inc.",,2016-10-28,500.0
+Gaspar for Supervisor 2016,RCPT,Floit,Dan,92103,Floit Properties,,2016-10-28,500.0
+Gaspar for Supervisor 2016,RCPT,Utley-Santa Maria,Jennifer,92009,Santa Maria Jewelry Co.,,2016-10-28,100.0
+Gaspar for Supervisor 2016,RCPT,Ruchlewicz,Paul,92067,Pacific Western Realty,,2016-10-28,250.0
+Gaspar for Supervisor 2016,RCPT,Esgate,Richard J.,92101,Esgil Corporation,,2016-10-27,750.0
+Gaspar for Supervisor 2016,RCPT,Provenzano,Ross,92122,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Lawson,James,92101,Presidio Public Affairs Group,,2016-10-27,250.0
+Gaspar for Supervisor 2016,RCPT,Thomas,David C.,92067,LBA Realty,,2016-10-27,150.0
+Gaspar for Supervisor 2016,RCPT,Thomas,Tina,92067,,,2016-10-27,150.0
+Gaspar for Supervisor 2016,RCPT,Shier,Ivor,92067,Corporate Helicopters of San Diego,,2016-10-27,400.0
+Gaspar for Supervisor 2016,RCPT,Beal,Jordan,92075,Beal Real Estate,,2016-10-27,750.0
+Gaspar for Supervisor 2016,RCPT,Esgate,Arlene J.,92101,,,2016-10-27,750.0
+Gaspar for Supervisor 2016,RCPT,Beal,Evan,92075,Beal Real Estate,,2016-10-27,750.0
+Gaspar for Supervisor 2016,RCPT,Skaja,Carl J.,92027,"Skaja Daniels Lister & Permito, LLP",,2016-10-26,250.0
+Gaspar for Supervisor 2016,RCPT,McKellar,Chris,92037,McKellar McGowan,,2016-10-26,500.0
+Gaspar for Supervisor 2016,RCPT,Wood,Kenneth A,92067,Law Offices of Kenneth A Wood,,2016-10-26,50.0
+Gaspar for Supervisor 2016,RCPT,Sandstrom,Scot,92127,"New Pointe Communities, Inc.",,2016-10-26,250.0
+Gaspar for Supervisor 2016,RCPT,Ramsey,Dylan,78701,58 Phases,,2016-10-26,750.0
+Gaspar for Supervisor 2016,RCPT,Jobin,Tara,92075,Radys Children Hospital,,2016-10-26,750.0
+Gaspar for Supervisor 2016,RCPT,Peck,Vera,92067,,,2016-10-26,750.0
+Gaspar for Supervisor 2016,RCPT,Zarcades,Peter,92067,The Niki Group,,2016-10-25,750.0
+Gaspar for Supervisor 2016,RCPT,Keltner,Diane,92071,Synergy Electric,,2016-10-25,750.0
+Gaspar for Supervisor 2016,RCPT,Rust,Michael,92029,Newland Real Estate Group,,2016-10-25,150.0
+Gaspar for Supervisor 2016,RCPT,Feder,Dan,92102,F & F Income Properties LLC,,2016-10-25,500.0
+Gaspar for Supervisor 2016,RCPT,Garrick,Martin,92067,Admiral Industries,,2016-10-25,250.0
+Gaspar for Supervisor 2016,RCPT,Dabby,Danny,92014,"Danmor Investments, Inc.",,2016-10-25,250.0
+Gaspar for Supervisor 2016,RCPT,Haddad,Ann,92106,,,2016-10-24,250.0
+Gaspar for Supervisor 2016,RCPT,Robinson Wood,Rebecca,92026,R.S. Robinson Co.,,2016-10-23,50.0
+Gaspar for Supervisor 2016,RCPT,Seltzer,Tyler,92008,Watersohn Companies Inc,,2016-10-22,100.0
+Gaspar for Supervisor 2016,RCPT,Pepper,Ronald C.,92130,Retail Insite,,2016-10-22,250.0
+Gaspar for Supervisor 2016,RCPT,Haynsworth,Donald,92106,,,2016-10-22,50.0
+Gaspar for Supervisor 2016,RCPT,Hokanson,Neil,92007,Self: Hokanson Associates,,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Woltman,Richard P.,92037,,,2016-10-21,500.0
+Gaspar for Supervisor 2016,RCPT,Anderson,Winthrop,92103,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Ashcraft,James H.,92067,"Ashcraft Investment Co., Inc.",,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Ashcraft,Alyce,92067,"Ashcraft Investment Co,, Inc.",,2016-10-20,750.0
+Gaspar for Supervisor 2016,RCPT,Showen,Richard,92067,Self Employed,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Weber,Bill,92067,,,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Lemarie,Laurel,92067,,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Free,Scott,92067,Lusardi Construction,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Miller,Tyler,92067,Miller Construction,,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Doughty,Richard,92067,,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Wylie,Alice,92067,C.E. Wylie Construction,,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Hillgren,Nancy,92067,Rancho Santa Fe Association,,2016-10-20,300.0
+Gaspar for Supervisor 2016,RCPT,Pace,Robert,92067,,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Dieterich,Brett,92067,,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Dieterich,Nick,92067,Self Employeed,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Seltzer,Tyler,92008,Watersohn Companies Inc,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Woolley,Susan,92067,,,2016-10-20,150.0
+Gaspar for Supervisor 2016,RCPT,Burdge,Richard,92067,,,2016-10-20,500.0
+Gaspar for Supervisor 2016,RCPT,Kendall,Charles,92067,,,2016-10-20,300.0
+Gaspar for Supervisor 2016,RCPT,Berglund,Mary,92037,"J. Berglund Company, Inc.",,2016-10-20,250.0
+Gaspar for Supervisor 2016,RCPT,Feldman,Uri,92121,Sunroad Enterprises,,2016-10-20,750.0
+Gaspar for Supervisor 2016,RCPT,Allred,Doug,92130,Douglas Allred Company,,2016-10-20,500.0
+Gaspar for Supervisor 2016,RCPT,Davis,Steven,92064,SDGE,,2016-10-19,500.0
+Gaspar for Supervisor 2016,RCPT,Schneider,Michael,91941,Sempra,,2016-10-19,200.0
+Gaspar for Supervisor 2016,RCPT,Peterson,Scott,92129,SDGE,,2016-10-19,200.0
+Gaspar for Supervisor 2016,RCPT,Johnson,Mary Ann,91935,Homemaker,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Johnson,Michael,91935,Carrier Johnson + Culture,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Lehmkuhl,Eric,92107,KPFF Consulting Engineers,,2016-10-19,250.0
+Gaspar for Supervisor 2016,RCPT,McParlane,Paul,92124,McParlane & Associates,,2016-10-19,250.0
+Gaspar for Supervisor 2016,RCPT,Zubiate,Hermlinda,92116,Carrier Johnson,,2016-10-19,200.0
+Gaspar for Supervisor 2016,RCPT,Cavignac,Jeffrey,92103,Cavignac & Associates,,2016-10-19,250.0
+Gaspar for Supervisor 2016,RCPT,McFaul,James,92101,Butz Dunn & DeSantis,,2016-10-19,250.0
+Gaspar for Supervisor 2016,RCPT,Mavis,Geoffrey,92067,,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Feldman,Aaron,92121,Sunroad Enterprises,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Feldman,Dan,92121,Sunroad Enterprises,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Mavis,Geoffrey,92067,,,2016-10-19,750.0
+Gaspar for Supervisor 2016,RCPT,Jones,Donna,92107,Law Offices of Donna Jones,R,2016-10-18,-100.0
+Gaspar for Supervisor 2016,RCPT,Daley Jr,Donald Lester,92130,CA Commercial Asphalt,,2016-10-18,750.0
+Gaspar for Supervisor 2016,RCPT,James,Robert,92071,CBRE Group,,2016-10-18,100.0
+Gaspar for Supervisor 2016,RCPT,Ballo,Mayada S,92040,,,2016-10-18,750.0
+Gaspar for Supervisor 2016,RCPT,Ballo,Yasir Y,92040,Cardiff Valero,,2016-10-18,750.0
+Gaspar for Supervisor 2016,RCPT,Gabriel,Dan,92037,ColRich,,2016-10-18,750.0
+Gaspar for Supervisor 2016,RCPT,Gabriel,Graeme,92110,ColRich,,2016-10-18,750.0
+Gaspar for Supervisor 2016,RCPT,Krumdieck,Kevin,92128,Carrier Johnson,,2016-10-17,100.0
+Gaspar for Supervisor 2016,RCPT,Brutten,Marc,92121,Westcore Properties,,2016-10-17,500.0
+Gaspar for Supervisor 2016,RCPT,Hayek,Ashley,92127,Golden State Consultants,,2016-10-17,250.0
+Gaspar for Supervisor 2016,RCPT,Kiffmann,Helmut,92121,"Kiffmann Properties, Inc.",,2016-10-17,250.0
+Gaspar for Supervisor 2016,RCPT,Dittenhoefer,Donalee,92025,R. Harris & Co. Custom Cabinets,,2016-10-17,500.0
+Gaspar for Supervisor 2016,RCPT,Winters,Curtis,92131,Anesthesia Service Medical Group,,2016-10-17,200.0
+Gaspar for Supervisor 2016,RCPT,Etter,Carl,92009,Scripps Health,,2016-10-16,300.0
+Gaspar for Supervisor 2016,RCPT,Cohen,Ross,92122,,,2016-10-14,100.0
+Gaspar for Supervisor 2016,RCPT,Porterfield,Kathleen,92024,Encinitas Country Day School,,2016-10-14,750.0
+Gaspar for Supervisor 2016,RCPT,La Berge,Richard,92024,,,2016-10-14,750.0
+Gaspar for Supervisor 2016,RCPT,Landt,George F.,92104,,,2016-10-13,250.0
+Gaspar for Supervisor 2016,RCPT,Chavez,Rocky,92057,State of California,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,Houk,Sandra,92024,"RL Houk Construction, Inc.",,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Becker,Greg,92110,Cement Cutting Inc.,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Carlin,David,92019,Soltek Pacific Construction,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Stenman,Eric,92131,Balfour Beatty Construction,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,Rowan,Mark,92037,"Rowan Electric, Inc.",,2016-10-12,200.0
+Gaspar for Supervisor 2016,RCPT,Houk,Richard,92024,"RL Houk Construction, Inc.",,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Mahan,Robert,92660,Mahan Insurance Brokers,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Selezan,Nemanja,92127,Westpac Wealth Partners,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Selezan,Dusan,92127,Balfour Beatty Construction,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Baumann,Lawrence,92106,Bali Hai,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,Pierce,Frederick,92067,Pierce Education Properties,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Somo,Arkan,92019,Arkan Somo Associates,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Blair,Martin,92101,KC BBQ Restaurant,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,D'Angelo,Anthony,92129,NWS Corp,,2016-10-12,200.0
+Gaspar for Supervisor 2016,RCPT,McQuillen,Kevin,92019,,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Segal,Jon,92108,Tiffany & Co,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Desmond,James,92069,City of San Marcos,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Ross,Paul Douglas,92109,PB Consulting,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Murphy,Laura A,92130,,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Harmer,Sherman,92101,Urban Housing Partners,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Cairncross,Steven,92169,ReMax,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,Cairncross,Lori,92169,,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,Goodman,Thomas,92037,,,2016-10-12,100.0
+Gaspar for Supervisor 2016,RCPT,Culbert,Kelly Lynn,92107,Crownair Aviation,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Neil,Michael,92101,"Neil, Dymott, Frank McFall & Trexler",,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,Steigerwald,David,92009,Steigerwald-Dougherty General Building Contractors,,2016-10-12,400.0
+Gaspar for Supervisor 2016,RCPT,McKinnon,Martha,92123,KUSI News,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,McKinnon,Martha,92123,KUSI News,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,McDougal,Timothy,92109,California Bank and Trust,,2016-10-12,150.0
+Gaspar for Supervisor 2016,RCPT,Scanlon,Louis,92037,,,2016-10-12,150.0
+Gaspar for Supervisor 2016,RCPT,Dillon,Julie,92106,Dillon Develpment,,2016-10-12,250.0
+Gaspar for Supervisor 2016,RCPT,Finch,Randolph,92037,Finch Thornton Baird Attorneys at Law,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,Wylie,Charles,92067,C.E. Wylie Construction Co.,,2016-10-12,500.0
+Gaspar for Supervisor 2016,RCPT,Arendsee,R.W.,92067,Brandy Investments,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,Arendsee,R.W.,92067,Brandy Investments,,2016-10-12,750.0
+Gaspar for Supervisor 2016,RCPT,Miller,Merwyn,92024,MJ Miller Law Offices,,2016-10-11,100.0
+Gaspar for Supervisor 2016,RCPT,Grammier,Daniel,92121,MA Engineers,,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Patella,Sam,92120,Ubran Commercial,,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Austin,Wendy A.,92014,,,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Livoni,Christopher,92024,County of San Diego,,2016-10-11,100.0
+Gaspar for Supervisor 2016,RCPT,Mariscal,Juan-Pablo,92130,MAR Group Development,,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Torres,Anacani,90706,"Final Cleaning Solutions, Inc.",,2016-10-11,500.0
+Gaspar for Supervisor 2016,RCPT,Hope,Charles,92106,Hope-Amundson,,2016-10-11,150.0
+Gaspar for Supervisor 2016,RCPT,Mudd,Vincent,92127,Carrier Johnson,,2016-10-11,750.0
+Gaspar for Supervisor 2016,RCPT,Akhavan,Michael,92121,"MA Engineers, Inc.",,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Arnett,Terry,92127,"TSA Contracting, Inc.",,2016-10-11,150.0
+Gaspar for Supervisor 2016,RCPT,Armstrong,Eric,92009,Fuscoe Engineering,,2016-10-11,250.0
+Gaspar for Supervisor 2016,RCPT,Smith,Christopher,92130,Fidelity National Financial,,2016-10-10,150.0
+Gaspar for Supervisor 2016,RCPT,Walsh,Michael,92009,Hub International,,2016-10-09,100.0
+Gaspar for Supervisor 2016,RCPT,Dobyne,John,92120,Booz Allen Hamilton,,2016-10-07,100.0
+Gaspar for Supervisor 2016,RCPT,Barnhart,Douglas E.,92127,"Barnhart-Reese Construction Co., Inc.",,2016-10-07,500.0
+Gaspar for Supervisor 2016,RCPT,Ruth,Jon,92078,Marathon Construction,,2016-10-06,100.0
+Gaspar for Supervisor 2016,RCPT,Benedetto,Craig,92131,California Strategies,,2016-10-06,750.0
+Gaspar for Supervisor 2016,RCPT,Zettel,David J,92064,,,2016-10-06,100.0
+Gaspar for Supervisor 2016,RCPT,Zettel,Charlene R,92064,,,2016-10-06,100.0
+Gaspar for Supervisor 2016,RCPT,Relethford Sr.,Kenneth L.,92121,Orness Design Group,,2016-10-06,750.0
+Gaspar for Supervisor 2016,RCPT,Royster,Allan,92101,The Royster Group,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Summers,Jim,91901,"EC Constructors, Inc.",,2016-10-06,150.0
+Gaspar for Supervisor 2016,RCPT,Curry,Peter,92024,Cushman & Wakefield,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Jahshan,Abd,92131,PAL General Engineering,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Slakoff,Matthew,92107,Cavignac and Associates,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Payne,Mark,92064,Swinerton Builders,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Payne,Mark,92064,Swinerton Builders,,2016-10-06,250.0
+Gaspar for Supervisor 2016,RCPT,Chandler,Richard,92067,"University of California, Irvine",R,2016-10-05,-250.0
+Gaspar for Supervisor 2016,RCPT,Cooper,Rosemary,92024,JPI Companies,,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Schwartz,Jacob,92101,Urban Coastal Development,,2016-10-05,50.0
+Gaspar for Supervisor 2016,RCPT,Jones,Eric,92101,Urban Real Estate Services,,2016-10-05,500.0
+Gaspar for Supervisor 2016,RCPT,Barnes,Paul,92024,Shea Homes,,2016-10-05,100.0
+Gaspar for Supervisor 2016,RCPT,Young,Kimberlee,92009,Vault Bioventures,,2016-10-05,100.0
+Gaspar for Supervisor 2016,RCPT,Becker,Richard,92078,Bergelectric Corp,,2016-10-05,100.0
+Gaspar for Supervisor 2016,RCPT,Kyne,Rex,92021,"Kyne Construction, Inc.",,2016-10-05,125.0
+Gaspar for Supervisor 2016,RCPT,Dellanos,Estela,92014,San Diego Gas & Electric,,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Wax,Charles,92067,Waxi Sanitary Supply,,2016-10-05,500.0
+Gaspar for Supervisor 2016,RCPT,Harper,Jeffrey A.,92064,Harper Construction Co.,,2016-10-05,300.0
+Gaspar for Supervisor 2016,RCPT,Murad,Randy,92117,"R Hope Development, Inc.",,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Kleege,Bruce,92130,Kleege Enterprises,,2016-10-05,500.0
+Gaspar for Supervisor 2016,RCPT,Davee,Gerald,92101,,,2016-10-05,150.0
+Gaspar for Supervisor 2016,RCPT,Petteway,Roxanne,92101,Petteway Management Group,,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Sell,Steven,92109,Peoples Mortgage Company,,2016-10-05,200.0
+Gaspar for Supervisor 2016,RCPT,Butler,Charles,92067,American Faucet,,2016-10-05,300.0
+Gaspar for Supervisor 2016,RCPT,Lee,Nicholas,92109,Baldwin & Sons,,2016-10-05,500.0
+Gaspar for Supervisor 2016,RCPT,Hasenin,Isam,75082,Bureau Veritas,,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Wildman,Rick,92037,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Ryan,David,92027,Crown Air Aviation,,2016-10-05,250.0
+Gaspar for Supervisor 2016,RCPT,Shier,Ivor,92067,Corporate Helicopters of San Diego,,2016-10-05,300.0
+Gaspar for Supervisor 2016,RCPT,Spaulding,Robert,85350,,,2016-10-05,200.0
+Gaspar for Supervisor 2016,RCPT,Stambook,Trudy,92101,Centre City Properties,,2016-10-05,750.0
+Gaspar for Supervisor 2016,RCPT,Vance,Donna P,92067,,,2016-10-05,500.0
+Gaspar for Supervisor 2016,RCPT,Kyne,Kari,92021,Kyne Construction,,2016-10-05,125.0
+Gaspar for Supervisor 2016,RCPT,Doud,Channey,91941,Dynalectric,,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Chandler,Richard,92067,"University of California, Irvine",,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Thorne,Robert,92067,"California West Construction, Inc.",,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Turk,Michael,92109,"KD Development, Inc.",,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Turk,Lauren N.,92109,"KD Development, Inc.",,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Turk,Mike,92109,KD Development Inc,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Delaney,Joseph,92009,DLA Piper LLP,,2016-10-04,100.0
+Gaspar for Supervisor 2016,RCPT,Crosbie,Tom,92130,"CGS3- Crosbie Gliner Schiffman Southard & Swanson, LLP",,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Rowan,Mark,92037,"Rowan Electric, Inc.",,2016-10-04,300.0
+Gaspar for Supervisor 2016,RCPT,King,Tammy,92014,,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Peck,John,92067,Peck Enterprises,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Nora,James,50701,Tomahawk Power LLC,,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Nora,Lawrence C.,92130,Tomahawk Power LLC,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Nora,Peter,92130,"Chicago Capital Funds, LLC",,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Ellis,Raymond,92130,"Ellis & Associates, LLC",,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Nelson,Andrew,92037,Willis Allen Real Estate,,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Hinchman,Kelly,92101,Studio H Design Group,,2016-10-04,150.0
+Gaspar for Supervisor 2016,RCPT,Turk,Julie,92109,,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Avoyer,Stephen E,92037,Flocke & Avoyer Commercial Real Estate,,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Dewhurst,Don,92008,Dewhurst & Associates,,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Schavrien,Lee,92064,Sempra Energy,,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Nelson,W. Mark,92103,Sempra Energy,,2016-10-04,300.0
+Gaspar for Supervisor 2016,RCPT,Guebert,David,92033,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,Pearson,R. Scott,92131,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,Ruis,Warren Richard,92057,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,Mitchell,Eugene,92009,San Diego Gas & Electric,,2016-10-04,300.0
+Gaspar for Supervisor 2016,RCPT,Folkmann,Bruce,91941,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,Keith,Erbin,92024,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,Benedetto,Nathan,92037,Storm Commercial Real Estate,,2016-10-04,500.0
+Gaspar for Supervisor 2016,RCPT,Gleicher,Marleigh,92037,,,2016-10-04,750.0
+Gaspar for Supervisor 2016,RCPT,Wheelihan,Michael,92008,"Wheelihan Construction, Inc.",,2016-10-04,250.0
+Gaspar for Supervisor 2016,RCPT,Shults,Emily,92078,San Diego Gas & Electric,,2016-10-04,200.0
+Gaspar for Supervisor 2016,RCPT,"Colton, Jr.",Alan,92020,San Diego Gas & Electric,,2016-10-04,100.0
+Gaspar for Supervisor 2016,RCPT,Villegas,Pedro,91913,Sempra Energy,,2016-10-04,150.0
+Gaspar for Supervisor 2016,RCPT,Burt,Kelly,92127,Tres-Dac,,2016-10-03,750.0
+Gaspar for Supervisor 2016,RCPT,Peterson,Scott,92024,"CBRE, Inc.",,2016-10-03,150.0
+Gaspar for Supervisor 2016,RCPT,Campbell,Vance,92024,Apptek Industries,,2016-10-03,100.0
+Gaspar for Supervisor 2016,RCPT,Alcalde,Richard,20003,"Potomac Partners, DC",,2016-10-03,750.0
+Gaspar for Supervisor 2016,RCPT,Cummins,Eilene,92037,,,2016-10-03,100.0
+Gaspar for Supervisor 2016,RCPT,Kimmel,Jason,92024,Cushman & Wakefield,,2016-10-03,250.0
+Gaspar for Supervisor 2016,RCPT,Brown,Jeffrey,92075,Gaspar: Doctors Of Physical Therapy,,2016-10-02,125.0
+Gaspar for Supervisor 2016,RCPT,Dathe,Matthew,92110,"Encompas Network, Inc.",,2016-09-30,100.0
+Gaspar for Supervisor 2016,RCPT,Jordan,Brian,92067,Helix Electric,,2016-09-30,250.0
+Gaspar for Supervisor 2016,RCPT,Woolley,Don,92129,Rick Engineering Company,,2016-09-30,250.0
+Gaspar for Supervisor 2016,RCPT,Drury,Scott,92124,San Diego Gas & Electric,,2016-09-30,200.0
+Gaspar for Supervisor 2016,RCPT,Grant,Kenneth,92532,,,2016-09-30,750.0
+Gaspar for Supervisor 2016,RCPT,Lusardi,Warner C,92078,Lusardi Construction,,2016-09-30,250.0
+Gaspar for Supervisor 2016,RCPT,Bailey,John A.,92078,Lusardi Construction,,2016-09-30,250.0
+Gaspar for Supervisor 2016,RCPT,Hardage,Samuel,92130,Hardage Group,,2016-09-30,750.0
+Gaspar for Supervisor 2016,RCPT,Hardage,Samuel,92130,Hardage Group,,2016-09-30,250.0
+Gaspar for Supervisor 2016,RCPT,Brown,Charlene,92108,Atlas Hotels,,2016-09-30,750.0
+Gaspar for Supervisor 2016,RCPT,Kennedy,Mark,92020,Marathon Equipment Leasing,,2016-09-30,750.0
+Gaspar for Supervisor 2016,RCPT,Arnett,Terry,92127,"TSA Contracting, Inc.",,2016-09-29,150.0
+Gaspar for Supervisor 2016,RCPT,Michaelsen,John,92037,Capital Growth Properties,,2016-09-29,300.0
+Gaspar for Supervisor 2016,RCPT,Dewhurst-Johnson,Debra,92008,Karlsbad Realty,,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Drum,Elizabeth,92024,"Drum Plumbing, Inc.",,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Bellamy,Pamela,92037,,,2016-09-29,500.0
+Gaspar for Supervisor 2016,RCPT,Drum,Kevin,92024,"Drum Plumbing, Inc.",,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Craver,Joseph W,92107,,,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,McMahon,Lawrence,92064,"Alliant Insurance Services, Inc.",,2016-09-29,100.0
+Gaspar for Supervisor 2016,RCPT,Menashe,Linda,92067,Chicago Title,,2016-09-29,350.0
+Gaspar for Supervisor 2016,RCPT,Quinn,James Stephen,92037,American Property Enterprises,,2016-09-29,270.6
+Gaspar for Supervisor 2016,RCPT,Marsh,Chris,92024,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Russo,Pasquale,92024,Open Door Packaging,,2016-09-29,500.0
+Gaspar for Supervisor 2016,RCPT,Brizolis,Merritt,92075,"Self; Merritt Brizolis, Ph.D",,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Steiner,Robert G.,91910,,,2016-09-29,100.0
+Gaspar for Supervisor 2016,RCPT,Browar,Matthew,92037,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Lichtman,Joshua,92007,The Crack Shack,,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Perlmanq,Ronald,92037,"Monro Capital, Inc.",,2016-09-29,150.0
+Gaspar for Supervisor 2016,RCPT,Pena,Daniel,92120,Juniper Hospitality,,2016-09-29,250.0
+Gaspar for Supervisor 2016,RCPT,Amundson,Jim,92024,Hope-Amundson,,2016-09-29,150.0
+Gaspar for Supervisor 2016,RCPT,Hershfield,Lawrence,92067,Ranch Capital LLC,,2016-09-29,750.0
+Gaspar for Supervisor 2016,RCPT,Hershfield,Tammy,92067,Computers to SD Kids,,2016-09-29,750.0
+Gaspar for Supervisor 2016,RCPT,Levis,Edwin,92037,Emerald Properties,,2016-09-29,200.0
+Gaspar for Supervisor 2016,RCPT,Quinn,James Stephen,92037,American Property Enterprises,,2016-09-29,229.39
+Gaspar for Supervisor 2016,RCPT,McLean,John,92024,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Stemley,Wendell,92114,"Black IPO, Inc.",,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Kaheny,John,92116,,,2016-09-28,100.0
+Gaspar for Supervisor 2016,RCPT,Gable,Tom,92014,Nuffer Smith Tucker Public Relations,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Cook,Dennis,92024,Cooks Volkswagon,,2016-09-28,500.0
+Gaspar for Supervisor 2016,RCPT,Jones,Eric,92101,Urban Real Estate Services,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Clark,Craig,92121,"CW Clark, Inc.",,2016-09-28,300.0
+Gaspar for Supervisor 2016,RCPT,Engle,William,92037,The Robert Green Company,,2016-09-28,500.0
+Gaspar for Supervisor 2016,RCPT,Brownell,Stephen,92009,"Lindsay & Brownell, CPAs",,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Swanson,Craig,92118,CGS3 - Crosbie Gliner Schiffman Southard & Swanson LLP,,2016-09-28,500.0
+Gaspar for Supervisor 2016,RCPT,Archer,Jon,92121,Crew Builders Inc,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Arnett,Terry,92127,"TSA Contracting, Inc.",,2016-09-28,150.0
+Gaspar for Supervisor 2016,RCPT,Schiffman,Dana,92130,CGS3 - Crosbie Gliner Schiffman Southard & Swanson LLP,,2016-09-28,500.0
+Gaspar for Supervisor 2016,RCPT,Heinly,J Kevin,92107,Gensler,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Russell,Lisa,92024,,,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Russell,Patrick,92024,The Robert Green Co.,,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Rowan,Paul,92084,Rowan Electric,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Heidelberg,Evelyn,92127,Binger Communications,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Dalry,Daniel,92130,David Reed Construction Inc.,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Becker,Greg,92110,Cement Cutting Inc.,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Borges,Leslie,92024,Spectrum Property Management,,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Bridges,Robert,92021,Bridges Construction Services Inc.,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Carlin,David,92019,Soltek Pacific Construction,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Carlin,Monica,92019,,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Klemaske,Frank,92106,T.B. Penick & Sons,,2016-09-28,250.0
+Gaspar for Supervisor 2016,RCPT,Malcolm,David,92101,Suncoast Financial Corporation,,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Malcolm,Annie,92101,Suncoast Financial,,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Murray,Debbie,92130,Cumming Corporation,,2016-09-28,100.0
+Gaspar for Supervisor 2016,RCPT,Ryan,James,92064,Association of General Contractors - SD Chapter,,2016-09-28,100.0
+Gaspar for Supervisor 2016,RCPT,Santistevan,David R,92067,Colliers Int'l,,2016-09-28,150.0
+Gaspar for Supervisor 2016,RCPT,Stroder,Steven,92596,Pro-Build Holdings,,2016-09-28,200.0
+Gaspar for Supervisor 2016,RCPT,Bieri,Stephen,92128,"Self: The Stephen A. Bieri Company, Inc.",,2016-09-28,750.0
+Gaspar for Supervisor 2016,RCPT,Loudon,John,91932,California Construction Compliance Group,,2016-09-28,100.0
+Gaspar for Supervisor 2016,RCPT,Levine,Gary,92121,AJ Gallagher,,2016-09-28,500.0
+Gaspar for Supervisor 2016,RCPT,DePhilippis,Robert,91910,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Matheson,Douglas,92106,"CBRE Group, Inc.",,2016-09-27,100.0
+Gaspar for Supervisor 2016,RCPT,Matheson,Douglas,92106,"CBRE Group, Inc.",,2016-09-27,100.0
+Gaspar for Supervisor 2016,RCPT,Alkhas,Joe,92007,No Rail Trail,,2016-09-27,200.0
+Gaspar for Supervisor 2016,RCPT,Asaro,Guy,92131,Meridian Development,,2016-09-27,500.0
+Gaspar for Supervisor 2016,RCPT,Farrell,Peter,92037,ResMed,,2016-09-27,750.0
+Gaspar for Supervisor 2016,RCPT,McNerney,Michael,92024,Lowe Enterprises,,2016-09-27,250.0
+Gaspar for Supervisor 2016,RCPT,Ayling,Robert,92103,"Mendell Energy Management, Inc.",,2016-09-27,100.0
+Gaspar for Supervisor 2016,RCPT,Goetz,Dean,92075,Law Office of Dean A. Goetz,,2016-09-27,250.0
+Gaspar for Supervisor 2016,RCPT,Manchester,Craig,92660,Integral Communities,,2016-09-26,750.0
+Gaspar for Supervisor 2016,RCPT,Knapp,C. Evan,92660,Integral Communities,,2016-09-26,750.0
+Gaspar for Supervisor 2016,RCPT,Stanek,John,92660,Integral Communities,,2016-09-26,750.0
+Gaspar for Supervisor 2016,RCPT,Sandstrom,Scot,92127,"New Pointe Communities, Inc.",,2016-09-26,250.0
+Gaspar for Supervisor 2016,RCPT,Coval,Joanne,92011,"Playwerx, Inc.",,2016-09-26,250.0
+Gaspar for Supervisor 2016,RCPT,Feinman,Michael,92130,Cohn Restaurant Group,,2016-09-26,250.0
+Gaspar for Supervisor 2016,RCPT,Wildman,Rick,92037,Self,0,,
+Gaspar for Supervisor 2016,RCPT,Pue,Alex,92106,Anesthesia Services Medical Grp.,,2016-09-26,200.0
+Gaspar for Supervisor 2016,RCPT,Winters,Steven,92024,"Gemini Strategies, LLC",,2016-09-26,500.0
+Gaspar for Supervisor 2016,RCPT,Eardensohn,John,92064,Latitude 33 Planning & Engineering,,2016-09-26,500.0
+Gaspar for Supervisor 2016,RCPT,Dealy,Perry,92106,"Dealy Development, Inc.",,2016-09-26,500.0
+Gaspar for Supervisor 2016,RCPT,Lyon,Mark,92037,Mark Lyon Architecture,,2016-09-26,250.0
+Gaspar for Supervisor 2016,RCPT,Collins,Richard,91942,"Collins Plumbing, Inc.",,2016-09-26,250.0
+Gaspar for Supervisor 2016,RCPT,Diroberto,Todd,92108,Atlas Investments,,2016-09-25,500.0
